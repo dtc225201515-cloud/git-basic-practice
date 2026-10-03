@@ -1,0 +1,2 @@
+Đây là project thực hành Git và GitHub của dtc225201515-cloud.
+Quy trình: sửa file -> git add -> git commit -> git push.
