@@ -1,0 +1,2 @@
+Bài 1: notes.txt chưa được đưa vào staging area.
+Bài 2: cập nhật style.css và notes.txt trong cùng một commit.
