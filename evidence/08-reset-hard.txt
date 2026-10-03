@@ -1,0 +1,16 @@
+PS D:\CodeGym\git-basic-practice> git status
+On branch main
+nothing to commit, working tree clean
+
+PS D:\CodeGym\git-basic-practice> git ls-files
+index.html
+notes.txt
+script.js
+style.css
+
+PS D:\CodeGym\git-basic-practice> git log --oneline
+c8bde3c Update style and notes
+dd27427 Add javascript file
+2fbc88d Update html content
+ad046bd Initial commit: add html and css
+

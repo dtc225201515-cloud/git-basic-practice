@@ -1,0 +1,4 @@
+PS D:\CodeGym\git-basic-practice> git remote -v
+origin	https://github.com/dtc225201515-cloud/git-basic-practice.git (fetch)
+origin	https://github.com/dtc225201515-cloud/git-basic-practice.git (push)
+

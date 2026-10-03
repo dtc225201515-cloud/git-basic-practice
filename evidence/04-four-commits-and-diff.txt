@@ -1,0 +1,33 @@
+PS D:\CodeGym\git-basic-practice> git log --oneline
+c8bde3c Update style and notes
+dd27427 Add javascript file
+2fbc88d Update html content
+ad046bd Initial commit: add html and css
+
+PS D:\CodeGym\git-basic-practice> git show --format=fuller HEAD
+commit c8bde3c9adba53c9662e321b2cc62533e8f29451
+Author:     dtc225201515-cloud <dtc225201515-cloud@users.noreply.github.com>
+AuthorDate: Sat Oct 3 14:38:22 2026 +0700
+Commit:     dtc225201515-cloud <dtc225201515-cloud@users.noreply.github.com>
+CommitDate: Sat Oct 3 14:38:22 2026 +0700
+
+    Update style and notes
+
+diff --git a/notes.txt b/notes.txt
+new file mode 100644
+index 0000000..3a9bd90
+--- /dev/null
++++ b/notes.txt
+@@ -0,0 +1,2 @@
++Bài 1: notes.txt chưa được đưa vào staging area.
++Bài 2: cập nhật style.css và notes.txt trong cùng một commit.
+diff --git a/style.css b/style.css
+index 9e48d4c..1e7cfca 100644
+--- a/style.css
++++ b/style.css
+@@ -1,2 +1,3 @@
+-body { font-family: Arial, sans-serif; margin: 40px; }
++body { font-family: Arial, sans-serif; margin: 40px; background: #f8fafc; }
+ h1 { color: #1d4ed8; }
++p { line-height: 1.6; }
+

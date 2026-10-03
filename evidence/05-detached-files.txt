@@ -1,0 +1,6 @@
+script.js at checked out commit:
+'use strict';
+console.log('Thực hành Git và GitHub');
+
+notes.txt exists: 
+False

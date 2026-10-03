@@ -1,0 +1,17 @@
+﻿From https://github.com/dtc225201515-cloud/git-basic-practice
+   dcf69b5..cb2a850  main       -> origin/main
+Updating dcf69b5..cb2a850
+Fast-forward
+ README.md | 5 +++++
+ 1 file changed, 5 insertions(+)
+ create mode 100644 README.md
+cb2a850 Create README on GitHub for pull practice
+dcf69b5 Add about file
+c8bde3c Update style and notes
+dd27427 Add javascript file
+2fbc88d Update html content
+ad046bd Initial commit: add html and css
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean

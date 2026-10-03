@@ -1,0 +1,17 @@
+PS D:\CodeGym\git-basic-practice> git status
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   temp.txt
+
+
+PS D:\CodeGym\git-basic-practice> git diff --cached --stat
+ temp.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+PS D:\CodeGym\git-basic-practice> git log --oneline
+c8bde3c Update style and notes
+dd27427 Add javascript file
+2fbc88d Update html content
+ad046bd Initial commit: add html and css
+
